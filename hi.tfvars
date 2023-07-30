@@ -1,2 +1,2 @@
 name="Siddhesh"
-loc="southindia"
+loc="westus"
